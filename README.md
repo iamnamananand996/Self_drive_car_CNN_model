@@ -54,4 +54,4 @@ NVIDIA's paper: [End to End Learning for Self-Driving Cars](http://images.nvidia
 [Andrew Ng](https://medium.com/@andrewng/self-driving-cars-are-here-aea1752b1ad0) for the knowledge.
 
 
-## USE GOOGLE COLAB TO RUN THIS NOTEBOOK
+## NOTE : USE GOOGLE COLAB TO RUN THIS NOTEBOOK
